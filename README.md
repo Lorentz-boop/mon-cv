@@ -32,7 +32,7 @@
         </ul>
     </div>
 
-    <div class="section">
+    <div class="section">b
         <h2>Compétences</h2>
         <ul>
             <li>HTML / CSS (Débutant)</li>
