@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <title>Le CV de Lorentz</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; background-color: #FFA50099; }
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; background-color: #8BDDF0; }
         header { text-align: center; background: #ead82a; color: white; padding: 20px; border-radius: 8px; }
         .section { background: white; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        h2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; }
+        h2 { color: #4627F5; border-bottom: 2px solid A3F527; }
     </style>
 </head>
 <body>
